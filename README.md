@@ -1,11 +1,16 @@
-Documentation of the Project
+# Documentation of the Project
+
 Project 6 : Minor MLOps project Using Circle CI
 In this project we will learn Circle CI (CICD tool) like Jenkins, we will deploy on Google Kubernetes cluster.
 Folder Name & Path : MLOps-Beginner to Advanced MLOps on GCP-CICD\_ Kubernetes Jenkins/6_Project
-Highlights of the Project :
+
+# Highlights of the Project :
+
 1.Use of Circle Ci
 2.Making Kubernetes Cluster on Google Kubernetes cluster
-WorkFlow of the project:
+
+# WorkFlow of the project:
+
 Here Data Ingestion part is not explained again, we can implement the same steps as mentioned in the previous projects.
 1.Project setup: We define project and folder structure, custom Exception, logging, create virtual environment.  
 2.Jupyter Notebook Testing: We will do notebook testing on EDA, Data processing , and all required steps.
@@ -30,7 +35,7 @@ Cricle CI : It is cloud based, we don’t have to do the installation. It is eas
 
 Jenkins : Generally not cloud based. It is bit hard as it is manual setup oriented. It requires additional setup for scaling. Has more customization options. It is free open source. Used by big companies.
 
-Now Starts with Project Code Setup Implementation.
+# Now Starts with Project Code Setup Implementation.
 
 1. Project Setup Implementation :
    Create a folder for the project on Laptop. From this folder path type CMD and enter, then run code . , this will take you to VS Code. Now Go to VS Code, open terminal
